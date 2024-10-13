@@ -11,5 +11,6 @@ I'm a passionate software engineer with a love for building robust and scalable 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/neeraj--singh/)
+- [Medium](https://medium.com/@neer3)
 
 Let's connect and collaborate on exciting software projects! Feel free to reach out for discussions.
